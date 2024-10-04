@@ -1,5 +1,5 @@
 # Website Development App
-This is a simple app that uses an LLM to generate a website based on a user's request.
+This is a simple app that uses an LLM to generate a website (HTML and CSS) based on a user's request. It takes a screenshot of a website as an inout and generates a list of steps/milestones on how to implement that website and also implements the steps and generates HTML amd CSS files
 
 1. **OpenAI Integration**: The app is connected to OpenAI's API, allowing it to leverage state-of-the-art language models for generating responses.
 
